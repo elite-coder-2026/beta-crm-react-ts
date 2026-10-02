@@ -1,0 +1,5 @@
+# Editor settings
+.idea/
+
+# Generated line-count reports
+.VSCodeCounter/
